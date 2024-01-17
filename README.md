@@ -4,6 +4,7 @@
 
 ### The project contains thats:
 #### - Login/Logout/Signup pages.
+#### - A slash screen page(1000 ms).
 #### - Adding photo to FireStore Database and Storage.
 #### - Adding label to in FireStore Database photos to descriptions field.
 #### - A about page(maybe cv).
